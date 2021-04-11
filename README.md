@@ -1,7 +1,7 @@
-# Dirbot
+# Dirbot - Files Gathering tools
 
 ![Dirbot](https://user-images.githubusercontent.com/37984399/114323703-bb65b700-9b26-11eb-859d-c8241aeb333a.PNG)
-Files Gathering tools
+
 
 # DirCopyBot
 Copy  all files(and files from subfolders)  from where it's executed into one folder 'out' with inside 1 folders per files extensions
